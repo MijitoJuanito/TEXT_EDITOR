@@ -35,7 +35,7 @@ Run this command in the terminal under server.js
 
 ### Demonstration
 
-![Demo of TEXT-EDITOR]()
+![Demo of TEXT-EDITOR](./client/src/images/JATE.jpg)
 [TEXT-EDITOR DEMO](https://text-editor323-41195e3b23fc.herokuapp.com)
 
 
