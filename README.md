@@ -36,6 +36,7 @@ Run this command in the terminal under server.js
 ### Demonstration
 
 ![Demo of TEXT-EDITOR]()
+[TEXT-EDITOR DEMO](https://text-editor323-41195e3b23fc.herokuapp.com)
 
 
 
